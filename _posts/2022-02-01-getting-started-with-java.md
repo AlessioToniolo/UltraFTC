@@ -31,10 +31,11 @@ In order to start learning Java, join the CodeHS class, a website where you can 
 [![Michaud Thumbnail](https://i3.ytimg.com/vi/4zqjLV5Lm1c/maxresdefault.jpg)](https://www.youtube.com/watch?v=4zqjLV5Lm1c)
 *Tutorial on CodeHS installation. Recommended start at 2:16!*
 
-I recommend that you scroll down and start at **Basic Java**. To become a confident programmer, I highly, highly, recommend you complete each section, each lesson, 
-and complete the basic java unit. If you would like to continue learning more about Java, ask us about recommended lessons!
+I recommend that you scroll down and start at **JAVA MATH OPERATORS 01**. To become a confident programmer, I highly, highly, recommend you complete each section, each lesson, 
+and complete the basic java unit. After Java math operators, continue through until **JAVA FUNCTIONS EXCERSIZE 01**. After you are completed with this, if you would like
+to become even more confident in programming, just contact the Bots in Black for more lessons!
 
-![Java section](https://uploads.codehs.com/eebf6a0a7dc7f260e8d43b54c9c29c40)
+![Java section](https://uploads.codehs.com/default_module)
 
 ### Additional Resources
 
